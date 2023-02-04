@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2023-02-04 19:57:38
+  status: 1
+  name: MyString
+  organizer: MyString
+  coordinator: MyString
+  sponsor: MyString
+  event_type: MyString
+
+two:
+  date: 2023-02-04 19:57:38
+  status: 1
+  name: MyString
+  organizer: MyString
+  coordinator: MyString
+  sponsor: MyString
+  event_type: MyString
