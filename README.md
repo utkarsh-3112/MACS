@@ -23,7 +23,3 @@ Things you may want to cover:
 
 * ...
 # MACS-Website
-# MACS-Website
-# MACS-Website
-# MACS-Website
-# MACS-Website
