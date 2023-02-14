@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  resources :events
+  resources :courses
   root to: 'temp#main'
   get '/programmes', to: 'temp#programmes'
   get '/courses', to: 'temp#courses'
